@@ -1,0 +1,29 @@
+.header {
+  padding-top: 164px;
+  padding-bottom: 80px;
+  background-image: url('../images/cleaner.jpg');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+.subtitle {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: calc(23 / 20);
+  color: #b5ca00;
+}
+.title {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: calc(47 / 40);
+  color: #000000;
+  margin: 25px 0;
+}
+.btn {
+  background: #b5ca00;
+  border-radius: 4px;
+  padding: 20px 98px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: calc(21 / 18);
+  color: #ffffff;
+}
